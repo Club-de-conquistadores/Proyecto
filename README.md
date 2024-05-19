@@ -1,4 +1,4 @@
 # Proyecto
 #Integrantes:
-Miguel Cordero
+Miguel Cordero,
 Alvaro Favela
