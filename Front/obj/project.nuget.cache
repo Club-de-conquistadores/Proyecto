@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "25RWo+w1UtBVxKsegqxr5zWkjx7J1/t4aOSTJndYwQFIVSmnwMvgDvv8yh72mam4c5xHN1+VqGQldPRUR36eMA==",
+  "dgSpecHash": "gBIgBLTjiXN0q8JfcKQNWWzEKE30ix2m2rvgEs2HaYn6bzo29dyfwuOMTKw1GkclaB5r0L+UQqI8reMOGxe7og==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lavan\\OneDrive\\Documentos\\Conquistadores\\Proyecto-master\\Front\\Front.csproj",
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\Conquistadores\\Front\\Front.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\lavan\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.17763.27\\microsoft.windows.sdk.net.ref.10.0.17763.27.nupkg.sha512"
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.17763.28\\microsoft.windows.sdk.net.ref.10.0.17763.28.nupkg.sha512"
   ],
   "logs": []
 }

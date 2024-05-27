@@ -11,7 +11,7 @@ using Sistema.Negocio;
 
 namespace Front
 {
-    
+
     public partial class Form1 : Form
     {
 

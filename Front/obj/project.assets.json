@@ -62,23 +62,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\lavan\\.nuget\\packages\\": {},
+    "C:\\Users\\PC\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lavan\\OneDrive\\Documentos\\Conquistadores\\Proyecto-master\\Front\\Front.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\source\\repos\\Conquistadores\\Front\\Front.csproj",
       "projectName": "Front",
-      "projectPath": "C:\\Users\\lavan\\OneDrive\\Documentos\\Conquistadores\\Proyecto-master\\Front\\Front.csproj",
-      "packagesPath": "C:\\Users\\lavan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lavan\\OneDrive\\Documentos\\Conquistadores\\Proyecto-master\\Front\\obj\\",
+      "projectPath": "C:\\Users\\PC\\source\\repos\\Conquistadores\\Front\\Front.csproj",
+      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\PC\\source\\repos\\Conquistadores\\Front\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\lavan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -94,11 +94,11 @@
         "net6.0-windows10.0.17763": {
           "targetAlias": "net6.0-windows10.0.17763.0",
           "projectReferences": {
-            "C:\\Users\\lavan\\OneDrive\\Documentos\\Conquistadores\\Proyecto-master\\Entidades\\Entidades.csproj": {
-              "projectPath": "C:\\Users\\lavan\\OneDrive\\Documentos\\Conquistadores\\Proyecto-master\\Entidades\\Entidades.csproj"
+            "C:\\Users\\PC\\source\\repos\\Conquistadores\\Entidades\\Entidades.csproj": {
+              "projectPath": "C:\\Users\\PC\\source\\repos\\Conquistadores\\Entidades\\Entidades.csproj"
             },
-            "C:\\Users\\lavan\\OneDrive\\Documentos\\Conquistadores\\Proyecto-master\\Negocio\\Negocio.csproj": {
-              "projectPath": "C:\\Users\\lavan\\OneDrive\\Documentos\\Conquistadores\\Proyecto-master\\Negocio\\Negocio.csproj"
+            "C:\\Users\\PC\\source\\repos\\Conquistadores\\Negocio\\Negocio.csproj": {
+              "projectPath": "C:\\Users\\PC\\source\\repos\\Conquistadores\\Negocio\\Negocio.csproj"
             }
           }
         }
@@ -126,7 +126,7 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.Windows.SDK.NET.Ref",
-            "version": "[10.0.17763.27, 10.0.17763.27]"
+            "version": "[10.0.17763.28, 10.0.17763.28]"
           }
         ],
         "frameworkReferences": {
@@ -140,7 +140,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
