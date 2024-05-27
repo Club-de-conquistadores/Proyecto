@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "25RWo+w1UtBVxKsegqxr5zWkjx7J1/t4aOSTJndYwQFIVSmnwMvgDvv8yh72mam4c5xHN1+VqGQldPRUR36eMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lavan\\OneDrive\\Documentos\\Conquistadores\\Proyecto-master\\Front\\Front.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lavan\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.17763.27\\microsoft.windows.sdk.net.ref.10.0.17763.27.nupkg.sha512"
+  ],
+  "logs": []
+}
