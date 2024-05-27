@@ -48,6 +48,7 @@
     <Compile Include="DConquistador.cs" />
     <Compile Include="DEnfermedad.cs" />
     <Compile Include="DTutor.cs" />
+    <Compile Include="ejemplo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
