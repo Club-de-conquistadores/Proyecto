@@ -1,0 +1,6 @@
+C:\Users\PC\source\repos\Conquistadores\Entidades\bin\Debug\Sistema.Entidades.dll
+C:\Users\PC\source\repos\Conquistadores\Entidades\bin\Debug\Sistema.Entidades.pdb
+C:\Users\PC\source\repos\Conquistadores\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Conquistadores\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Conquistadores\Entidades\obj\Debug\Sistema.Entidades.dll
+C:\Users\PC\source\repos\Conquistadores\Entidades\obj\Debug\Sistema.Entidades.pdb
