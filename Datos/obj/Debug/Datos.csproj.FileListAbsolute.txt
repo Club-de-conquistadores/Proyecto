@@ -1,0 +1,20 @@
+C:\Users\PC\source\repos\Conquistadores\Datos\bin\Debug\Sistema.Datos.dll
+C:\Users\PC\source\repos\Conquistadores\Datos\bin\Debug\Sistema.Datos.pdb
+C:\Users\PC\source\repos\Conquistadores\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Conquistadores\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Conquistadores\Datos\obj\Debug\Sistema.Datos.dll
+C:\Users\PC\source\repos\Conquistadores\Datos\obj\Debug\Sistema.Datos.pdb
+C:\Users\PC\source\repos\Conquistadores\Datos\bin\Debug\Sistema.Entidades.dll
+C:\Users\PC\source\repos\Conquistadores\Datos\bin\Debug\Sistema.Entidades.pdb
+C:\Users\PC\source\repos\Conquistadores\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\PC\source\repos\Conquistadores\Datos\bin\Debug\LibreriaBD.dll
+C:\Users\lavan\Downloads\Nueva carpeta (7)\Proyecto-master\Datos\bin\Debug\Sistema.Datos.dll
+C:\Users\lavan\Downloads\Nueva carpeta (7)\Proyecto-master\Datos\bin\Debug\Sistema.Datos.pdb
+C:\Users\lavan\Downloads\Nueva carpeta (7)\Proyecto-master\Datos\bin\Debug\LibreriaBD.dll
+C:\Users\lavan\Downloads\Nueva carpeta (7)\Proyecto-master\Datos\bin\Debug\Sistema.Entidades.dll
+C:\Users\lavan\Downloads\Nueva carpeta (7)\Proyecto-master\Datos\bin\Debug\Sistema.Entidades.pdb
+C:\Users\lavan\Downloads\Nueva carpeta (7)\Proyecto-master\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\lavan\Downloads\Nueva carpeta (7)\Proyecto-master\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\lavan\Downloads\Nueva carpeta (7)\Proyecto-master\Datos\obj\Debug\Datos.csproj.Up2Date
+C:\Users\lavan\Downloads\Nueva carpeta (7)\Proyecto-master\Datos\obj\Debug\Sistema.Datos.dll
+C:\Users\lavan\Downloads\Nueva carpeta (7)\Proyecto-master\Datos\obj\Debug\Sistema.Datos.pdb
