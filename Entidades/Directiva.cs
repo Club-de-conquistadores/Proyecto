@@ -6,10 +6,7 @@ using System.Threading.Tasks;
 
 namespace Sistema.Entidades
 {
-    public class Directiva
+    internal class Directiva
     {
-        
-
-
     }
 }
