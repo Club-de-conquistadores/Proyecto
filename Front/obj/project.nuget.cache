@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "K/Cxa0N52Z1a7L/oveb1GrXAbUEQfUU6RzcrViYE+3zSW4IujXvMP7CC+U9+poGuGP3v40d6AMwBw0Uxzny7bA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lavan\\Downloads\\Nueva carpeta (7)\\Proyecto-master\\Front\\Front.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lavan\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.17763.31\\microsoft.windows.sdk.net.ref.10.0.17763.31.nupkg.sha512"
+  ],
+  "logs": []
+}
