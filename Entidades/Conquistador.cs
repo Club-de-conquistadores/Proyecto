@@ -17,14 +17,15 @@ namespace Sistema.Entidades
         string usuario;
         string contraseña;
 
+        public string Usuario { get => usuario; set => usuario = value; }
+        public string Contraseña { get => contraseña; set => contraseña = value; }
         public string Nombre { get => nombre; set => nombre = value; }
         public string Apellido_m { get => apellido_m; set => apellido_m = value; }
         public string Apellido_p { get => apellido_p; set => apellido_p = value; }
         public DateTime Fecha_nacimiento { get => fecha_nacimiento; set => fecha_nacimiento = value; }
         public char Sexo { get => sexo; set => sexo = value; }
         public int Edad { get => edad; set => edad = value; }
-        public string Usuario { get => usuario; set => usuario = value; }
-        public string Contraseña { get => contraseña; set => contraseña = value; }
+
 
         public Conquistador (string nombre, string ape_m, string ape_p, DateTime fecha, char sexo, int edad, string usuario, string contraseña)
         {

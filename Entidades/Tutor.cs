@@ -20,7 +20,6 @@ namespace Sistema.Entidades
 
         public string Usuario { get => usuario; set => usuario = value; }
         public string Contraseña { get => contraseña; set => contraseña = value; }
-
         public int Id { get => id; set => id = value; }
         public string Nombre { get => nombre; set => nombre = value; }
         public string Apellido_m { get => apellido_m; set => apellido_m = value; }
