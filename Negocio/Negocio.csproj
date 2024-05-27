@@ -42,6 +42,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ejemplo.cs" />
+    <Compile Include="NConsquistador.cs" />
+    <Compile Include="NTutor.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
