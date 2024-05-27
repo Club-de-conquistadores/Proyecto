@@ -52,3 +52,4 @@ C:\Users\lavan\OneDrive\Documentos\Conquistadores\Proyecto-master\Front\obj\Debu
 C:\Users\lavan\OneDrive\Documentos\Conquistadores\Proyecto-master\Front\obj\Debug\net6.0-windows10.0.17763.0\Front.pdb
 C:\Users\lavan\OneDrive\Documentos\Conquistadores\Proyecto-master\Front\obj\Debug\net6.0-windows10.0.17763.0\Front.genruntimeconfig.cache
 C:\Users\lavan\OneDrive\Documentos\Conquistadores\Proyecto-master\Front\obj\Debug\net6.0-windows10.0.17763.0\ref\Front.dll
+C:\Users\PC\source\repos\Conquistadores\Front\obj\Debug\net6.0-windows10.0.17763.0\Front.Properties.Resources.resources
